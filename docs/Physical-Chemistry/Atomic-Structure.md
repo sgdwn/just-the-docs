@@ -1,3 +1,9 @@
+---
+layout: default
+title: Physical Chemistry
+nav_order: 1
+---
+
 ## Mass Spectroscopy  
 ### Time of Flight  
 - Measures time taken for particles to move from one end to the other  
