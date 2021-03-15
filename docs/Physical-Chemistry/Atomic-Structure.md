@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Physical Chemistry
+title: Atomic Structure
 nav_order: 1
 ---
 
