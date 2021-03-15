@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Atomic Structure
+parent: Physical Chemistry
 nav_order: 1
 ---
 
