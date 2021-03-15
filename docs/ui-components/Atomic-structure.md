@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Typography
-parent: Atomic Structure
+title: Atomic Structure
+parent: Physical Chemistry
 nav_order: 1
 ---
 
